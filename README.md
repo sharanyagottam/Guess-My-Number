@@ -6,5 +6,5 @@ HOW TO PLAY ??? <br>
 2)If our guessed number is incorrect, the hint option guides us by hinting if the guessed number is too high! or too low!<br>
 3)We have 20 chances to guess the correct hidden number if we guess the number before we win the game otherwise we lose the game!<br>
 4)Our high score is recorded automatically in the game.<br>
+5)Click on 'again' to play new game.<br>
 Good Luck, Give it a try!
-
